@@ -1,4 +1,5 @@
-#Rust operator utilizes post-escaped brackets, enables redirecting of dimensional code while continuing linear execution. The goal for optimization is the following:
+## Rust operator utilizes post-escaped brackets..
+..Enables redirecting of dimensional code while continuing linear execution. A goal for optimization is the following:
 - Performative, single threaded execution for double threaded output. The same line of code executes parallel operation.
 - Spatial, (y,z) axis, dimensional arrays, enabling code to operate in dimensional space. It also enables an output to exist in two locations.
 - Quantum-like stepping, where a character input can print two output. The second location need not be defined geographically, potentially enabling 5D single threaded execution, solely along the X axis series.
